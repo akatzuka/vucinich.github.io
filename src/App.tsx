@@ -4,7 +4,7 @@ import {
   Timeline,
   Expertise,
   Project,
-  Contact,
+  //Contact,
   Navigation,
   Footer,
 } from "./components";
@@ -32,9 +32,9 @@ function App() {
         <FadeIn transitionDuration={700}>
             <Main/>
             <Expertise/>
-            <Timeline/>
             <Project/>
-            <Contact/>
+            <Timeline/>
+            {/*<Contact/>*/}
         </FadeIn>
         <Footer />
     </div>
