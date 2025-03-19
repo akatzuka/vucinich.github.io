@@ -154,6 +154,9 @@ const Project: React.FC = () => {
       <Typography variant="h2" component="h1" gutterBottom>
         Data & Tech Projects
       </Typography>
+      <Typography variant="body1">
+        Note: Due to the sensitive nature of education student data, only a limited amount of the dashboard and reporting work I've done can be showcased here. Some features may be obfuscated and reports/dashboards limited, however all have been approved to share.
+      </Typography>
 
       {/* Current project title */}
       <Box sx={{ mt: 4, mb: 4 }}>
