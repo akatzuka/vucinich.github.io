@@ -1,27 +1,22 @@
 {
   "files": {
-    "main.css": "/akatzuka.github.io/vucinich.github.io/static/css/main.fe880227.css",
-    "main.js": "/akatzuka.github.io/vucinich.github.io/static/js/main.d4b7cf8e.js",
-    "static/js/453.b05d8aa5.chunk.js": "/akatzuka.github.io/vucinich.github.io/static/js/453.b05d8aa5.chunk.js",
-    "static/media/mock10.png": "/akatzuka.github.io/vucinich.github.io/static/media/mock10.2d05b02ba569a430a255.png",
-    "static/media/mock09.png": "/akatzuka.github.io/vucinich.github.io/static/media/mock09.e18677ccfc932e52d754.png",
-    "static/media/mock08.png": "/akatzuka.github.io/vucinich.github.io/static/media/mock08.13f46873fdbd382f4b76.png",
-    "static/media/mock04.png": "/akatzuka.github.io/vucinich.github.io/static/media/mock04.f7b5679efade992a078c.png",
-    "static/media/bg-light.png": "/akatzuka.github.io/vucinich.github.io/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/mock07.png": "/akatzuka.github.io/vucinich.github.io/static/media/mock07.3f1110f482232b33c6a2.png",
-    "static/media/mock05.png": "/akatzuka.github.io/vucinich.github.io/static/media/mock05.4faafa70d200d1519a34.png",
-    "static/media/mock06.png": "/akatzuka.github.io/vucinich.github.io/static/media/mock06.ea816617e0d0fa0f63ca.png",
-    "static/media/bg-dark.png": "/akatzuka.github.io/vucinich.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock01.png": "/akatzuka.github.io/vucinich.github.io/static/media/mock01.61bd486a54bf6e17ee5a.png",
-    "static/media/mock02.png": "/akatzuka.github.io/vucinich.github.io/static/media/mock02.bced48ae9cdda3acf1a3.png",
-    "static/media/mock03.png": "/akatzuka.github.io/vucinich.github.io/static/media/mock03.a4600719e0b5d2a3155b.png",
-    "index.html": "/akatzuka.github.io/vucinich.github.io/index.html",
-    "main.fe880227.css.map": "/akatzuka.github.io/vucinich.github.io/static/css/main.fe880227.css.map",
-    "main.d4b7cf8e.js.map": "/akatzuka.github.io/vucinich.github.io/static/js/main.d4b7cf8e.js.map",
-    "453.b05d8aa5.chunk.js.map": "/akatzuka.github.io/vucinich.github.io/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/vucinich.github.io/static/css/main.3fe35d01.css",
+    "main.js": "/vucinich.github.io/static/js/main.9561386d.js",
+    "static/js/453.b05d8aa5.chunk.js": "/vucinich.github.io/static/js/453.b05d8aa5.chunk.js",
+    "static/media/Grade_distro.png": "/vucinich.github.io/static/media/Grade_distro.1904dae0c6b40a9dca16.png",
+    "static/media/llama_vscode.png": "/vucinich.github.io/static/media/llama_vscode.7ebbb5616c67b3395da7.png",
+    "static/media/bg-light.png": "/vucinich.github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/vucinich.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/MTC_Dashboard_Main.png": "/vucinich.github.io/static/media/MTC_Dashboard_Main.e7535b16650895c594ee.png",
+    "static/media/Course_Performance_Main.png": "/vucinich.github.io/static/media/Course_Performance_Main.c05ebf24399447e6bb89.png",
+    "static/media/Series_GPA.png": "/vucinich.github.io/static/media/Series_GPA.2bb8019ff44a87f18f9a.png",
+    "index.html": "/vucinich.github.io/index.html",
+    "main.3fe35d01.css.map": "/vucinich.github.io/static/css/main.3fe35d01.css.map",
+    "main.9561386d.js.map": "/vucinich.github.io/static/js/main.9561386d.js.map",
+    "453.b05d8aa5.chunk.js.map": "/vucinich.github.io/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe880227.css",
-    "static/js/main.d4b7cf8e.js"
+    "static/css/main.3fe35d01.css",
+    "static/js/main.9561386d.js"
   ]
 }

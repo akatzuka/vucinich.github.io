@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">An Approach to Enhancing Fairness in a Dynamically Growing Federated Learning Environments</h3>
             <h4 className="vertical-timeline-element-subtitle">S Vucinich, Q Zhu, N Meneghetti</h4>
             <p>
-                Pending Publication
+                Pending Publication (In the Proceedings of IEEE BigComp 2025)
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement

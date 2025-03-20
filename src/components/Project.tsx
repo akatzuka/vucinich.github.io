@@ -8,11 +8,27 @@ const projects = [
   {
     title: 'Course Performance Dashboard',
     description: {
-      Objective: [''],
-      Features: [''],
-      Audience: [''],
-      'Data Sources': [''],
-      Outcomes: [''],
+      Objective: [
+        'To provide a unified dashboard for visualizing the current performance of every online learning experience, in addition to performance over the past fiscal year, while also enabling the ability to perform comparative analysis on performance metrics between experiences. This includes information on high-level metrics (enrollments, completions, user reviews), as well as revenue data, alongside a derived performance indicator for ranking each initiative regarding its specific performance.'],
+      Features: [
+    'A highly responsive Tableau-based dashboard that supports both single-sign on and access control to customize the dashboard view based on who is accessing it (allowing the dashboard to support multiple academic unit’s data while retaining data confidentiality)',
+    'Supports multiple use cases, from internal comparative analysis of initiative performance across Academic Units, to Academic Unit specific views relative to their own learning experiences', 
+    'Supports data for over 400 unique learning experiences and series, with over 20 million user records, alongside automated integration of financial data stored in Salesforce', 
+    'Support for multiple LMS platforms, including Coursera, edX, and Canvas, with planned support for additional LMS platforms in the future', 
+    'Forward-facing performance forecasting for enrollments, completions, and revenue, considering factors such as seasonality and potential future course updates, with a high confidence of accuracy'
+    ],
+      Audience: [
+      'Academic Unit Leadership (Deans and Program Administrators)',
+      'University Senior Executives'
+    ],
+      'Data Sources': [
+        'LMS Platform Data (Enrollment, Completion, Progression, User Reviews) – Amazon Redshift, Oracle SQL',
+        'Financial Data (Initiative Revenue) - Salesforce'
+    ],
+      Outcomes: [
+        'This dashboard has enabled concrete understanding of the relative performance of a myriad of learning experiences across the many Academic Units, for the first time empowering conversations on what an outperforming or underperforming initiative looks like and provide contextual understanding to executives on what performance within a given domain is.',
+        'The predictive trends have additionally enabled strategic conversations on future investment in strategic planning to be more focused, affording new opportunities to be deliberate with sourcing conversations with all Academic Units.'
+      ],
     },
     image: require('../assets/images/project_images/Course_Performance_Main.png'),
   },
@@ -33,8 +49,9 @@ const projects = [
         'University Senior Executives'
       ],
       'Data Sources': [
-        'University Student Records (Enrollment & Degree data)',
-        'LMS Platform Data (Enrollment, Progression)',
+        'University Student Records (Enrollment & Degree data) – Oracle SQL',
+        'LMS Platform Data (Enrollment, Completion, Progression) – Amazon Redshift, Oracle SQL',
+        'Financial Data - Salesforce',
         'Student Gradebook Data (Stored in AWS S3 Buckets)'
       ],
       Outcomes: [
@@ -55,8 +72,8 @@ const projects = [
         'Follow-up reporting also brought in additional Expression of Interest (E.o.I.) data sources, allowing the comprehensive modeling of student interest at the earliest point in the Degree Program pipeline as possible.'],
       Audience: ['Academic Unit Leadership (Deans)', 
         'University Senior Executives'],
-      'Data Sources': ['University Student Records (Enrollment & Degree data)', 
-        'LMS Platform Data (Enrollment, Progression, Grades)', 
+      'Data Sources': ['University Student Records (Enrollment & Degree data) - Oracle SQL', 
+        'LMS Platform Data (Enrollment, Completion, Progression) – Amazon Redshift, Oracle SQL',
         'External Expression of Interest Data'],
       Outcomes: ['The findings from this reporting validated the main methodology that this degree program operated under; that being that by building on (or stacking on top of) openly available online courses (Massive Open Online Courses or MOOCs), degree program students can be better prepared and have higher levels of success throughout their participation in the degree program.', 
         'Further follow-ups from this reporting work were used to inform executive decision making on transitioning the degree program to a different LMS platform to allow for better support of the student experience.'],
@@ -73,8 +90,8 @@ const projects = [
         'Follow-up reporting also brought in additional Expression of Interest (E.o.I.) data sources, allowing the comprehensive modeling of student interest at the earliest point in the Degree Program pipeline as possible.'],
       Audience: ['Academic Unit Leadership (Deans)', 
         'University Senior Executives'],
-      'Data Sources': ['University Student Records (Enrollment & Degree data)', 
-        'LMS Platform Data (Enrollment, Progression, Grades)', 
+      'Data Sources': ['University Student Records (Enrollment & Degree data) - Oracle SQL', 
+        'LMS Platform Data (Enrollment, Progression, Grades) – Amazon Redshift, Oracle SQL', 
         'External Expression of Interest Data'],
       Outcomes: ['The findings from this reporting validated the main methodology that this degree program operated under; that being that by building on (or stacking on top of) openly available online courses (Massive Open Online Courses or MOOCs), degree program students can be better prepared and have higher levels of success throughout their participation in the degree program.', 
         'Further follow-ups from this reporting work were used to inform executive decision making on transitioning the degree program to a different LMS platform to allow for better support of the student experience.'],
