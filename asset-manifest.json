@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vucinich.github.io/static/css/main.3fe35d01.css",
-    "main.js": "/vucinich.github.io/static/js/main.9561386d.js",
+    "main.js": "/vucinich.github.io/static/js/main.14b3857a.js",
     "static/js/453.b05d8aa5.chunk.js": "/vucinich.github.io/static/js/453.b05d8aa5.chunk.js",
     "static/media/Grade_distro.png": "/vucinich.github.io/static/media/Grade_distro.1904dae0c6b40a9dca16.png",
     "static/media/llama_vscode.png": "/vucinich.github.io/static/media/llama_vscode.7ebbb5616c67b3395da7.png",
@@ -12,11 +12,11 @@
     "static/media/Series_GPA.png": "/vucinich.github.io/static/media/Series_GPA.2bb8019ff44a87f18f9a.png",
     "index.html": "/vucinich.github.io/index.html",
     "main.3fe35d01.css.map": "/vucinich.github.io/static/css/main.3fe35d01.css.map",
-    "main.9561386d.js.map": "/vucinich.github.io/static/js/main.9561386d.js.map",
+    "main.14b3857a.js.map": "/vucinich.github.io/static/js/main.14b3857a.js.map",
     "453.b05d8aa5.chunk.js.map": "/vucinich.github.io/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fe35d01.css",
-    "static/js/main.9561386d.js"
+    "static/js/main.14b3857a.js"
   ]
 }
