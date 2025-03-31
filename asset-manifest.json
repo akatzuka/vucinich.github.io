@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vucinich.github.io/static/css/main.3fe35d01.css",
-    "main.js": "/vucinich.github.io/static/js/main.4bb9e60e.js",
+    "main.js": "/vucinich.github.io/static/js/main.a25d5de0.js",
     "static/js/453.b05d8aa5.chunk.js": "/vucinich.github.io/static/js/453.b05d8aa5.chunk.js",
     "static/media/Guido-Interview-Gif.gif": "/vucinich.github.io/static/media/Guido-Interview-Gif.44b01f7e6071a574d543.gif",
     "static/media/Sleep-Gif.gif": "/vucinich.github.io/static/media/Sleep-Gif.51c65c7e80a9d4019e96.gif",
@@ -10,16 +10,16 @@
     "static/media/bg-light.png": "/vucinich.github.io/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/vucinich.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/MTC_Dashboard_Main.png": "/vucinich.github.io/static/media/MTC_Dashboard_Main.e7535b16650895c594ee.png",
+    "static/media/Course-Performance-v2.png": "/vucinich.github.io/static/media/Course-Performance-v2.7d5a1131ce853ae1fe9d.png",
     "static/media/Toolkit Diagram.png": "/vucinich.github.io/static/media/Toolkit Diagram.56451108d8b471fe2c58.png",
-    "static/media/Course_Performance_Main.png": "/vucinich.github.io/static/media/Course_Performance_Main.91b463ea7df6c940b647.png",
     "static/media/Series_GPA.png": "/vucinich.github.io/static/media/Series_GPA.2bb8019ff44a87f18f9a.png",
     "index.html": "/vucinich.github.io/index.html",
     "main.3fe35d01.css.map": "/vucinich.github.io/static/css/main.3fe35d01.css.map",
-    "main.4bb9e60e.js.map": "/vucinich.github.io/static/js/main.4bb9e60e.js.map",
+    "main.a25d5de0.js.map": "/vucinich.github.io/static/js/main.a25d5de0.js.map",
     "453.b05d8aa5.chunk.js.map": "/vucinich.github.io/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fe35d01.css",
-    "static/js/main.4bb9e60e.js"
+    "static/js/main.a25d5de0.js"
   ]
 }
